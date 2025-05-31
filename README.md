@@ -23,7 +23,6 @@ Make sure MongoDB is running locally (mongodb://localhost:27017).
 node app.js
 
 
-
 ---
 
 ### 📥 How to Add This to Your Project

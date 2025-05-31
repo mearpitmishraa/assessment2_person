@@ -8,10 +8,12 @@ MongoDB – Database
 Mongoose – MongoDB object modeling
 EJS – Embedded JavaScript templates
 Bootstrap 5 – Frontend styling
+
 📂 Project Structure
+
 🚀 How to Run
 1. Clone the repository
-git clone https://github.com/githubsagarkumar/person-management-system.git
+git clone https://github.com/mearpitmishraa/assessment2_person
 cd person-management-system
 
 2. Install dependencies

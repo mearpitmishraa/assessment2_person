@@ -3,11 +3,17 @@ Person Management System
 A simple CRUD (Create, Read, Update, Delete) application built with Node.js, Express.js, MongoDB, and EJS for managing person records.
 
 🔧 Technologies Used
+
 Node.js – Backend runtime
+
 Express.js – Web framework
+
 MongoDB – Database
+
 Mongoose – MongoDB object modeling
+
 EJS – Embedded JavaScript templates
+
 Bootstrap 5 – Frontend styling
 
 📂 Project Structure
